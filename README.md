@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlg-tg" alt="tlg-tg" /></a> </p>
 
-- 🔭 I’m currently working on **TLTERM**
+- 🔭 I’m currently working on **A new project XX**
 
 - 🌱 I’m currently learning **C#, Rust, Go, React, VUE.JS,**
 
